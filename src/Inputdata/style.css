@@ -1,0 +1,49 @@
+.parent-form {
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+.box-form {
+    background: #ebebeb;
+    padding: 10px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.label-mahasiswa {
+    margin-right: 30px;
+    font-family: tw cen mt;
+}
+.parent-btn {
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    margin-top: 20px;
+}
+.kolom {
+    margin-left: 10px;
+    border: 1px solid rgb(230, 230, 230);
+    padding-left: 5px;
+    border-radius: 5px;
+    outline-style: none;
+    font-family: tw cen mt;
+}
+.aspek-penilaian {
+    text-decoration: underline;
+    font-family: tw cen mt;
+}
+.tabel-aspek {
+    display: flex;
+    font-family: tw cen mt;
+}
+.center-form {
+    display: grid;
+    place-items: center;
+}
+.table-mahasiswa {
+    margin-top: 20px;
+    font-family: tw cen mt;
+}
+.judul {
+    text-align: center;
+    font-family: tw cen mt;
+}
